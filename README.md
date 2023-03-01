@@ -1,2 +1,2 @@
 # YT Clone
- YouTube Clone Made using React
+ YouTube Clone Made using React/MUI
