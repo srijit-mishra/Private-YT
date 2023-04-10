@@ -1,2 +1,2 @@
-# YT Clone
- YouTube Clone Made using React/MUI
+# Private Youtube
+Private YouTube Made using React/MUI
